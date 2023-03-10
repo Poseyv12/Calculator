@@ -1,2 +1,3 @@
 # Calculator
-Demo repo
+Demo repo.
+By vance posey.
